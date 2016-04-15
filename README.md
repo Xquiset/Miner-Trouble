@@ -2,4 +2,4 @@
 ![Character](https://github.com/Xquiset/Miner-Trouble/blob/master/Assets/Miner/sprite_miner0.png?raw=true)
 ## You are a miner stuck in a mine deep undergroud, and you must find your way out.
 ### Anything can happen. Nothing is as easy as it seems..
-### You gotta collect all the treasure before your collected by what else is in there
+### You gotta collect all the treasure before you get collected by what else is in there
